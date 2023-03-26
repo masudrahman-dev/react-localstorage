@@ -1,0 +1,38 @@
+[
+    {
+      "_id": "641fc66d1306982352e6539f",
+      "age": 20,
+      "name": "Asif Khan",
+      "email": "lilliehickman@exosis.com"
+    },
+    {
+      "_id": "641fc66dde9ae39a704a2f1c",
+      "age": 30,
+      "name": "Sandoval Massey",
+      "email": "sandovalmassey@exosis.com"
+    },
+    {
+      "_id": "641fc66d2337735c7cde24e3",
+      "age": 20,
+      "name": "Horne Pennington",
+      "email": "hornepennington@exosis.com"
+    },
+    {
+      "_id": "641fc66deb4a1d610f5a2420",
+      "age": 22,
+      "name": "Dominguez Compton",
+      "email": "dominguezcompton@exosis.com"
+    },
+    {
+      "_id": "641fc66d21f9344cf3371baa",
+      "age": 35,
+      "name": "Patricia Robertson",
+      "email": "patriciarobertson@exosis.com"
+    },
+    {
+      "_id": "641fc66ddac4218ef688e4dd",
+      "age": 26,
+      "name": "Hester Watson",
+      "email": "hesterwatson@exosis.com"
+    }
+  ]
